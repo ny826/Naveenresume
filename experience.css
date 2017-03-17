@@ -34,3 +34,10 @@ main > footer{
 	padding-left: 40%;
 	padding-right: 40%;
 }
+
+.experience{
+	margin: 10%;
+}
+.experience ul{
+	margin-left: 5%;
+}

@@ -42,13 +42,15 @@ main > div.image{
 }
 
 .name{
+	margin-top:4%; 
 text-align: center;
-color: green;
+font-size: 24px;
 }
 
 .born{
+margin-top:2%; 
 text-align: center;
-color: green;
+font-size: 24px;
 
 }
 
@@ -68,6 +70,4 @@ color: green;
 div.profile{
 	padding: 2%;
 	background-color:green;
-}
-div.profile a:hover{
 }

@@ -4,7 +4,7 @@ padding:0px;
 }
 
 body{
-	background-color: skyblue;
+	background-color: #673AB7;
 }
 
 main{
@@ -43,12 +43,12 @@ main > div.image{
 
 .name{
 text-align: center;
-color: green;
+color: #4a148c;
 }
 
 .born{
 text-align: center;
-color: green;
+color: #4a148c;
 
 }
 
@@ -70,4 +70,8 @@ div.profile{
 	background-color:green;
 }
 div.profile a:hover{
+}
+.main {
+    background-color: #E91E63;
+    
 }
